@@ -1,0 +1,44 @@
+body {
+    background-image: url(joanna-kosinska-478198.jpg);
+    background-size: cover;
+}
+
+section {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: verdana;
+    line-height: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.box1 {
+    color: white;
+    border: 5px solid rgba(161, 157, 143, 0.8);
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.image1 {
+    float: left;
+    margin: 5%;
+}
+
+.image2 {
+    float: right;
+    margin: 5%;
+}
+
+img {
+    padding: 1px;
+    border: 1px solid black;
+}
+
+.text {
+    margin: 2%;
+    font-weight: bold;
+}
